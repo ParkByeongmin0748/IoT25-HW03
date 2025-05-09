@@ -10,7 +10,7 @@ Read the potentiometer using `analogRead()` and print the values to the Serial M
 
 
 ## Example Video
-[YouTube Demo].(https://youtube.com/shorts/rxcIEaxt_S0?si=8D4ZPc6K4PjB1EGd)
+[YouTube Demo](https://youtube.com/shorts/rxcIEaxt_S0?si=8D4ZPc6K4PjB1EGd)
 
 ## File list
 - AnalogRead.ino : Arduino Source Code
